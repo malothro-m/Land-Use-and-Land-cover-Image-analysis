@@ -14,7 +14,7 @@ The project performs the following tasks:
 ## Project Structure
 
 - **Scripts:**
-  - `lulc_mapping.js`: Main script that runs the LULC mapping and exports the outputs.
+  - `ldv_lulc.js`: Main script that runs the LULC mapping and exports the outputs.
   
 - **Outputs:**
   - `True_Color_Lower_Dibang_Valley.tif`: True-color satellite image.
