@@ -19,7 +19,7 @@ The project performs the following tasks:
 - **Outputs:**
   - `True_Color_Lower_Dibang_Valley.tif`: True-color satellite image.
   - `LULC_Classification_Lower_Dibang_Valley.tif`: Classified LULC image.
-  - `Training_Data_Markers_Lower_Dibang_Valley.shp`: Shapefile containing training data points.
+  - `Training_Data_Markers_Lower_Dibang_Valley.csv`: Shapefile containing training data points.
 
 ## How to Run the Script
 
