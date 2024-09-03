@@ -39,7 +39,7 @@ The project performs the following tasks:
 ## Sample Outputs
 
 ### Classified LULC Image
-![Classified LULC Image](https://your-link-to-image/LULC_Classification_Lower_Dibang_Valley.png)
+![Classified LULC Image](lulc_ldv.png)
 
 ### Training Data Markers
 ![Training Data Markers](https://your-link-to-image/Training_Data_Markers_Lower_Dibang_Valley.png)
