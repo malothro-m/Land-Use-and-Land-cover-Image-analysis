@@ -1,6 +1,6 @@
 # Lower Dibang Valley LULC Mapping Project
 
-This project involves Land Use Land Cover (LULC) mapping of the Lower Dibang Valley district using Landsat 8 satellite imagery. The project employs Google Earth Engine to classify different land cover types and exports the results as images and data files.
+This project involves Land Use Land Cover (LULC) mapping of the Lower Dibang Valley district in Arunachal Pradesh India using Landsat 8 satellite imagery. The project employs Google Earth Engine to classify different land cover types and exports the results as images and data files.
 
 ## Project Overview
 
