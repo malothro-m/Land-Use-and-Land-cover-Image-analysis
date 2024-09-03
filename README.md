@@ -38,9 +38,6 @@ The project performs the following tasks:
 
 ## Sample Outputs
 
-### True-Color Image of Lower Dibang Valley
-![True Color Image](https://your-link-to-image/True_Color_Lower_Dibang_Valley.png)
-
 ### Classified LULC Image
 ![Classified LULC Image](https://your-link-to-image/LULC_Classification_Lower_Dibang_Valley.png)
 
